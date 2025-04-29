@@ -6,7 +6,6 @@ class Mahasiswa{
     int nim;
     string nama;
     float nilai;
-
     void printdata (){
         cout << "Masukkan Nim : " << nim << endl;
         cout << "Masukkan Nama : " << nama << endl;
@@ -15,5 +14,6 @@ class Mahasiswa{
 };
 int main(){
     Mahasiswa mhs;
-    
+    mhs.nim = 2024;
+   
 }
