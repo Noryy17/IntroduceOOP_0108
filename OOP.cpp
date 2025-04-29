@@ -19,7 +19,6 @@ int main(){
     mhs.nilai = 80.5;
 
     mhs.printdata();
-    
    
   
 }
